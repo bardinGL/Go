@@ -5,7 +5,7 @@ import(
 	"fmt"
 	"github.com/gorilla/mux"
 	"log"
-	"math/http"
+	"net/http"
 	"math/rand"
 	"strconv"
 )
